@@ -1,0 +1,21 @@
+.droppable {
+  width: 400px;
+  background-color: bisque;
+
+  &__title {
+    margin-bottom: 10px;
+    text-align: center;
+    border-bottom: 2px solid red;
+  }
+  &__box {
+    height: 100%;
+    padding: 5px;
+    background-color: bisque;
+
+    &.is-active {
+      padding: 0;
+      background-color: lightblue;
+      border: 5px solid bisque;
+    }
+  }
+}
