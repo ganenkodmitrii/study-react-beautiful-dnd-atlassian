@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/study-react-beautiful-dnd-atlassian/static/css/main.60a30ec4.css",
+    "main.js": "/study-react-beautiful-dnd-atlassian/static/js/main.bd48d38b.js",
+    "static/js/787.ab1cd980.chunk.js": "/study-react-beautiful-dnd-atlassian/static/js/787.ab1cd980.chunk.js",
+    "index.html": "/study-react-beautiful-dnd-atlassian/index.html",
+    "main.60a30ec4.css.map": "/study-react-beautiful-dnd-atlassian/static/css/main.60a30ec4.css.map",
+    "main.bd48d38b.js.map": "/study-react-beautiful-dnd-atlassian/static/js/main.bd48d38b.js.map",
+    "787.ab1cd980.chunk.js.map": "/study-react-beautiful-dnd-atlassian/static/js/787.ab1cd980.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60a30ec4.css",
+    "static/js/main.bd48d38b.js"
+  ]
+}
