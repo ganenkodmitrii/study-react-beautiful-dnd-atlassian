@@ -2,6 +2,7 @@
   "name": "study-react-beautiful-dnd-atlassian",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ganenkodmitrii.github.io/study-react-beautiful-dnd-atlassian",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
